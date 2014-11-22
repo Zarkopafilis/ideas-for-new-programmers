@@ -15,6 +15,7 @@
 ### Blogs 
 
 ### Miscellaneous Resources
+[JS: The Right Way](http://www.jstherightway.org)
 
 ### People to follow on Twitter
 
