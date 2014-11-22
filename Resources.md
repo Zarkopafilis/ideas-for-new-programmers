@@ -8,3 +8,13 @@
 
 [Git Book](http://git-scm.com/book/en/v2)
 
+### Tutorials and reference
+
+### Blogs 
+
+### Miscellaneous Resources
+
+### People to follow on Twitter
+
+
+
