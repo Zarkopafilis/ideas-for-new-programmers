@@ -16,7 +16,10 @@
 
 ### Miscellaneous Resources
 [JS: The Right Way](http://www.jstherightway.org)
+
 [Eloquent JavaScript](http://eloquentjavascript.net)
+
+[JavaScript is Sexy](javascriptissexy.com)
 
 
 ### People to follow on Twitter
