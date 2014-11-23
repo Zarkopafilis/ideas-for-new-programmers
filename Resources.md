@@ -19,5 +19,7 @@
 
 ### People to follow on Twitter
 
+### Mac Terminal Cheat Sheet
+[https://github.com/0nn0/terminal-mac-cheatsheet]
 
 
