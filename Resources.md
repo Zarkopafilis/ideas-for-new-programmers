@@ -16,6 +16,8 @@
 
 ### Miscellaneous Resources
 [JS: The Right Way](http://www.jstherightway.org)
+[Eloquent JavaScript](http://eloquentjavascript.net)
+
 
 ### People to follow on Twitter
 
