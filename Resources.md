@@ -15,7 +15,6 @@
 ### Blogs 
 
 ### Miscellaneous Resources
-[JS: The Right Way](http://www.jstherightway.org)
 
 ### People to follow on Twitter
 [John Resig - Creator Of jQuery] (https://twitter.com/jeresig)
