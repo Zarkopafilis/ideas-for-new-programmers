@@ -1,0 +1,26 @@
+From 5ab85c1c66ac95eeca9fb3d7ff71188a72aa3dfc Mon Sep 17 00:00:00 2001
+From: Pavle <paavlee@yahoo.com>
+Date: Sun, 23 Nov 2014 19:21:12 +0100
+Subject: [PATCH] Update Resources.md
+
+---
+ Resources.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/Resources.md b/Resources.md
+index 49018bc..05cd65a 100644
+--- a/Resources.md
++++ b/Resources.md
+@@ -18,6 +18,9 @@
+ [JS: The Right Way](http://www.jstherightway.org)
+ 
+ ### People to follow on Twitter
++[John Resig - Creator Of jQuery] (https://twitter.com/jeresig)
++
++[Nicholas C.Zakas - Author Of Professional JavaScript for Web Developers] (https://twitter.com/slicknet)
+ 
+ ### Mac Terminal Cheat Sheet
+ [Mac Command Line Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet)
+-- 
+1.8.4.2
+
