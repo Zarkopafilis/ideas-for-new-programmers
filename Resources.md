@@ -35,7 +35,13 @@ Great for javascript (and ruby, python, etc) coding practice. The problems are r
 
 
 ### People to follow on Twitter
+<<<<<<< HEAD
 [JS The Right Way's People To follow](http://www.jstherightway.org/#whotofollow)
+=======
+[John Resig - Creator Of jQuery] (https://twitter.com/jeresig)
+
+[Nicholas C.Zakas - Author Of Professional JavaScript for Web Developers] (https://twitter.com/slicknet)
+>>>>>>> 5ab8
 
 ### Mac Terminal Cheat Sheet
 [Mac Command Line Cheat Sheet](https://github.com/0nn0/terminal-mac-cheatsheet)
