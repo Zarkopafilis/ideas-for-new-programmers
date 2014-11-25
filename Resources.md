@@ -17,8 +17,6 @@
 
 [A List Apart](http://www.alistapart.com)  
 
-[JavaScript is Sexy](javascriptissexy.com)
-
 ### Miscellaneous Resources
 
 [JS: The Right Way](http://www.jstherightway.org)  
