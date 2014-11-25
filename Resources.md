@@ -18,6 +18,7 @@
 [A List Apart](http://www.alistapart.com)  
 
 ### Miscellaneous Resources
+<<<<<<< HEAD
 [JS: The Right Way](http://www.jstherightway.org)  
 A well structured collection of resources for learning javascript.  
   
@@ -33,6 +34,8 @@ Improve your typing skills by typing open-source code.
 [CodeWars](http://www.codewars.com)  
 Great for javascript (and ruby, python, etc) coding practice. The problems are ranked by difficulty and it's very easy to search for problems by category.   
 
+=======
+>>>>>>> V381-master
 
 ### People to follow on Twitter
 <<<<<<< HEAD
