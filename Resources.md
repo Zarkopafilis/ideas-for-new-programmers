@@ -17,6 +17,9 @@
 ### Miscellaneous Resources
 [JS: The Right Way](http://www.jstherightway.org)
 
+[codeeval.com](https://www.codeeval.com)
+is a platform for developer challenges. Challenges are categorized based on difficulty levels. You may participate in the coding challenges, impress employers and get hired.
+
 ### People to follow on Twitter
 
 ### Mac Terminal Cheat Sheet
