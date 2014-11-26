@@ -36,6 +36,9 @@ Great for javascript (and ruby, python, etc) coding practice. The problems are r
 
 =======
 
+[codeeval.com](https://www.codeeval.com)
+is a platform for developer challenges. Challenges are categorized based on difficulty levels. You may participate in the coding challenges, impress employers and get hired.
+
 ### People to follow on Twitter
 
 [JS The Right Way's People To follow](http://www.jstherightway.org/#whotofollow)
